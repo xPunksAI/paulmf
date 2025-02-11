@@ -3,6 +3,19 @@
 ## Overview
 PaulMF (Paul’s Market Fit) is an **AI-powered execution & mindshare agent** designed to help builders validate, refine, and distribute their ideas. It leverages structured decision-making and network effects to accelerate product-market fit.
 
+## Architecture
+<img width="541" alt="Screenshot 2568-02-10 at 00 45 37" src="https://github.com/user-attachments/assets/f9978cd1-35f2-4abc-a4f6-33597831ca27" />
+
+## Bounties
+### Lit Protocol
+- set up Delegatee and Admin wallet
+- use swap policy of Uniswap token swap
+<img width="862" alt="Screenshot 2568-02-10 at 01 43 39" src="https://github.com/user-attachments/assets/2b13b99b-0bc6-4ae5-a9c4-5902ff3e7319" />
+
+
+### Gaia + CollabLand
+coming up soon...
+
 ## Why PaulMF?
 Many builders struggle with:
 - **Idea Validation** – Wasting time on untested assumptions.
