@@ -17,6 +17,8 @@ PaulMF (Paul’s Market Fit) is an **AI-powered execution & mindshare agent** de
 - Gaia custom node API endpoint: https://0x970843fcc68194f4645588c6b47fae40e8ac441f.gaia.domains
 <img src="gaia-custom-node-start.png">
 
+- Gaia AI Agent implementation: [gaia-node.js](./gaia-node.js)
+
 ## Why PaulMF?
 Many builders struggle with:
 - **Idea Validation** – Wasting time on untested assumptions.

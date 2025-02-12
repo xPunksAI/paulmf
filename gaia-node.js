@@ -12,6 +12,7 @@ const client = new OpenAI({
   });
   
   async function main() {
+    // TODO: fix 404 error
     const chatCompletion = await client.chat.completions.create({
       messages: [{ role: 'user', content: 'Say this is a test' }],
       model: 'llama-3-8b-instruct',
