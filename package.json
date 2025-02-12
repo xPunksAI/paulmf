@@ -17,6 +17,7 @@
     "@langchain/openai": "^0.4.3",
     "@uniswap/sdk-core": "^7.5.0",
     "@uniswap/v3-sdk": "^3.24.0",
+    "dotenv": "^16.4.7",
     "ethers": "^6.13.5",
     "fs": "^0.0.1-security",
     "node-fetch": "^3.3.2",
